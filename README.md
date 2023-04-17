@@ -1,6 +1,6 @@
 # Docker Kubernetes Example
 
-This is a demo repository for practicing Git & GiHub.
+This is a demo repository for practicing Docker and Kubernetes.
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
